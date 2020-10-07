@@ -1,2 +1,2 @@
 # eksi-return-to-innocence
-Ekşi Sözlüğü Masumiyete Döndürür
+Ekşi Sözlüğü Masumiyete Döndüren Google Chrome Extension'ı
